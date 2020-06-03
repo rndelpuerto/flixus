@@ -1,0 +1,9 @@
+.main-header {
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+
+.navbar-brand strong {
+  font-weight: 400;
+}

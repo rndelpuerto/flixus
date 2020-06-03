@@ -1,0 +1,20 @@
+.hero {
+  height: 65vh;
+  border-radius: 0;
+
+  background-image: url("../../assets/images/pulp-fiction-bg.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top;
+
+  color: white;
+}
+.hero__title {
+  font-weight: bold;
+  color: inherit;
+}
+.hero__subtitle {
+  margin-bottom: 3rem;
+  font-weight: 400;
+  color: rgba(255, 255, 255, 0.6);
+}
